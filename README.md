@@ -1,2 +1,1 @@
-# pensamento-computacionale
-oi
+# 1apensamento
